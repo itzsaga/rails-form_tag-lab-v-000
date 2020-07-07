@@ -33,4 +33,4 @@ group :development, :test do
 end
 
 gem 'web-console', '~> 2.0', group: :development
-gem 'rake', '<11.0'
+gem 'rake', '<13.0'
